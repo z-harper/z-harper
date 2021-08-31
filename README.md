@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @z-harper
-- 👀 I’m interested in working with the MERN stack.
-- 🌱 I’m currently learning more about the MERN stack and the Ethereum blockchain.
 - 💞️ I’m looking to collaborate on anything that sounds interesting.
 - 📫 How to reach me: zjharper@protonmail.com.
 
